@@ -1,2 +1,2 @@
 # Projeto Eleições
-Desenvolvendo um dashboard interativo eleitoral
+Desenvolvendo um dashboard interativo eleitoral.
